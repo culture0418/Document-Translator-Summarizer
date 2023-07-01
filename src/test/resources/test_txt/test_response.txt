@@ -1,0 +1,2 @@
+1. how to determin the clock cycle in single cycle datapath ?
+2. what is the five stages in RISCV pipeline ?

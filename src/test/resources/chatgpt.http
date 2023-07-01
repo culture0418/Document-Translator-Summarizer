@@ -1,0 +1,10 @@
+POST https://api.openai.com/v1/completions
+Content-Type: application/json
+Authorization: Bearer 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
+
+{
+	"model": "text-davinci-003",
+	"prompt": "summary the  text",
+	"max_tokens": 4000,
+	"temperature": 1.0
+}
