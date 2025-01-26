@@ -1,4 +1,4 @@
-# JAVA FINAL PROJECT - PDF READER
+# JAVA FINAL PROJECT - Document-Translator & Summarizer
 
 ## Project Overview
 ### Application appearance
